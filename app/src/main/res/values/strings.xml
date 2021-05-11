@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">HomeworkRecyclerview</string>
+
+    // Data for Title of Item Food
+    <string-array name="title_list">
+        <item>MÌ QUẢNG</item>
+        <item>BÚN MĂNG VỊT</item>
+        <item>BÚN TƯƠI TRUYỀN THỐNG</item>
+        <item>BÚN XÀO THỊT HEO</item>
+        <item>BÚN BÒ HUẾ</item>
+    </string-array>
+
+    // Data for Description of Item Food
+    <string-array name="description_list">
+        <item>Từ lâu, mì Quảng đã trở thành nét đặc trưng trong văn hóa ẩm thực của vùng đất Quảng Nam. Một tô mì vừa đẹp về hình thức vừa thơm ngon trong hương vị sẽ đủ sức chiều lòng những thực khách khó tính nhất. Nếu cả gia đình bạn cũng yêu thích món ăn này thì tại sao không vào bếp trổ tài ngay nhỉ? Đầu tiên hãy tham khảo hướng dẫn cách nấu mì quảng dưới đây để chế biến theo đúng vị người Quảng nhé!</item>
+        <item>Bữa sáng là bữa ăn quan trọng nhất trong ngày, nó không chỉ cung cấp chất dinh dưỡng mà còn nạp năng lực cho cơ thể, giúp bạn tươi tỉnh suốt ngày dài làm việc. bài viết trước đã chia sẽ với các bạn bí quyết nấu bún mọc ngon, bài viết này, Cet.edu.vn sẽ giới thiệu đến các bạn cách nấu món bún măng vịt ngon và đơn giản cho bữa sáng ngon miệng và đầy đủ dưỡng chất.</item>
+        <item>Cách làm bún tươi truyền thống tại nhà được thực hiện cẩn thận, tỉ mỉ từ những công đoạn đầu tiên. Thành phẩm sẽ là những sợi bún dai dai, thơm ngon, đặc biệt là đảm bảo vệ sinh và giá thành nguyên liệu cũng rẻ nữa đấy.</item>
+        <item>Với những nguyên liệu quen thuộc cùng cách làm đơn giản, món bún xào thịt heo sau đây sẽ giúp bạn có một bữa sáng ngon miệng và đầy dinh dưỡng. Thêm vào đó là vị hài hòa của nước tương ăn kèm món bún này sẽ khiến bạn phải xuýt xoa cho xem!</item>
+        <item>Bún bò Huế có tên gọi tiếng anh là Beef Soup of Hue, là một trong những món ăn đặc trưng của thành phố Huế nhưng ngày nay bạn có thể thấy nó khắp các ngõ ngách ở Việt Nam. Tuy nhiên, cùng với sự lan tỏa của món ăn này thì cách nấu của nó cũng bị biến tấu đi ít nhiều. Hôm nay, Cet.edu.vn sẽ hướng dẫn bạn cách nấu bún bò Huế miền Nam và sa tế ăn kèm đúng chuẩn của người Huế.</item>
+    </string-array>
+
+    // Data for ImageView of Item Food
+    <string-array name="image_list">
+        <item>@drawable/mi_quang</item>
+        <item>@drawable/bun_mang_vit</item>
+        <item>@drawable/bun_tuoi</item>
+        <item>@drawable/bun_xaoheo</item>
+        <item>@drawable/bun_bo_hue</item>
+    </string-array>
+
+    // Data for Ingredient of Item Food
+    <string-array name="ingredient_list">
+        <item>Thịt ba chỉ: 600g\nTôm thẻ: 400g\nXương heo: 500g\nTrứng cút: 30 quả\nSợi mì Quảng: 500g\nCủ nén: 50g\nHành tím: 3 củ\nĐậu phộng: 100g\nRau sống: bắp chuối, cải con, húng quế, húng lủi, giá đỗ\nNguyên liệu ăn kèm: chanh, ớt, hành ngò, bánh đa nướng\nGia vị nêm nếm: dầu đậu phộng, nước mắm, muối, đường, hạt nêm, bột nghệ, tiêu, bột ngọt, dầu điều</item>
+        <item>1 con vịt (tùy theo số lượng người ăn, bạn có thể tăng hoặc giảm trọng lượng vịt)\n1kg bún tươi\n500g măng tươi\nỚt, hành lá, những loại rau thơm (ngò, húng quế, húng lủi), rau xà lách\n500g xương gà\nGia vị: Dầu ăn, bột nêm, tiêu bột, bột ngọt, nước mắm</item>
+        <item>200gr bột gạo\n35gr bột năng\nMuối, dầu ăn, nước lọc\nKhuôn làm bún, nồi và màng bọc thực phẩm</item>
+        <item>300g thịt heo\n200g bún\nHành tây\nHành lá, ớt\nTỏi, hành tím\nRau giá, rau thơm, dưa chuột\nHạt nêm, mắm, muối, đường</item>
+        <item>Bắp bò: 600 gr\nNạm bò: 600 gr\nGân bò: 400 gr\nGiò heo (chọn giò trước): 1 cái khoảng 800 gr\nXương ông: 1 kg\nMắm ruốc Huế: khoảng 3 muỗng canh\nSả: 6 cây\nGừng: 50 gr\nHành tím, tỏi\nBún tươi cọng to\nRau sống (bắp chuối, giá sống, rau thơm, rau răm, hành lá, củ hành tây)\nChả Huế (tùy thích)\nỚt, sa tế, tiêu, muối, nước mắm, dầu ăn, dấm trắng\nHuyết heo (nếu không thích ăn huyết bạn có thể bỏ qua)</item>
+    </string-array>
+
+    // Data for Process of Item Food
+    <string-array name="process_list">
+        <item>Bước 1: Sơ chế nguyên liệu\nTất cả nguyên liệu đều rửa sạch với nước muối pha loãng rồi để ráo.
+            Dùng kéo cắt bớt phần đầu và chân rồi bỏ phần chỉ lưng của tôm. Thịt ba chỉ và xương heo chần qua nước sôi, riêng thịt sẽ được cắt lát vừa ăn.
+            Các loại rau sống ăn kèm nên giữ lạnh để tươi ngon. Hành ngò cắt nhỏ, hành tím và củ nén dùng chày giã nhuyễn,
+            Trứng cút luộc chín, bóc vỏ; đậu phộng rang vàng, bỏ vỏ.\n\n
+            Bước 2: Nấu nước dùng và ướp gia vị\nTôm và thịt được để riêng trong 2 tô lớn, thêm muối, bột ngọt, tiêu, nước mắm, bột nghệ, dầu điều, củ nén và hành tím vào rồi trộn đều. Bạn sẽ ướp thịt và tôm khoảng 20 phút để thấm gia vị. Chuẩn bị một nồi chứa 3 lít nước, cho xương heo vào và đặt lên bếp để nấu nước dùng. Hầm với lửa nhỏ trong khoảng 40 phút, thỉnh thoảng vớt bọt giúp nước dùng trong hơn.\n\n
+            Bước 3: Xào nhân tôm thịt\nBắc chảo lên bếp, cho dầu phộng vào đun sôi (đến khi bốc khói) thì hạ nhỏ lửa lại. Đây là cách khử dầu đậu phộng. Khi dầu bớt nóng, cho tôm vào xào săn thì tiếp tục thêm thịt ba rọi và trứng cút vào xào. Trộn đều để gia vị hòa quyện, thêm hai chén nước dùng vào. Bạn nêm nếm gia vị vừa miệng và nấu thêm 15 phút với lửa vừa thì tắt bếp.\n\n
+            Bước 4: Trình bày và thưởng thức\nCho sợi mì quảng vào tô, thêm thịt, tôm, trứng lên phía trên, rưới một ít nước xào của phần nhân. Cuối cùng bạn chan nước dùng vừa đủ, xâm xấp mặt mì và thêm ít hành ngò, đậu phộng rang. Món ăn được dọn kèm cùng rau sống với bánh đa nướng.</item>
+        <item>Bước 1: Chọn và sơ chế vịt\nĐầu tiên, khi chọn vịt, bạn nên chọn loại vịt đồng để có thịt chắc, thơm, không nên chọn vịt nuôi công nghiệp vì thịt sẽ bở không dai. Sau khi mua về, bạn vặt lông vịt, làm sạch phần ngoài và cả phần trong ruột của vịt, sau đó chà xát vịt với một ít rượu trắng, rửa sạch lại và vớt ra để ráo nước. Tiếp theo, để nấu bún măng vịt ngon thơm bạn nên khử mùi tanh của vịt, bằng cách cho vịt vào chần sơ với nước sôi và cho thêm vài lát gừng hoặc sả cây.\n\n
+            Bước 2: Nêm nếm\nSau khi chần xong, bạn dùng dao chặt vịt thành từng miếng vừa ăn rồi cho vào tô lớn. Tiếp theo, nêm nếm vịt với hạt nêm, đường, bột ngọt, rồi trộn đều, ướp trong 2 – 3 giờ để vịt ngấm đều gia vị.\n\n
+            Bước 3: Sơ chế các loại nguyên liệu khác\nXương gà khi mua về, bạn mang xương rửa sạch với nước muối pha loãng và để khô ráo. Măng bạn đem thái lát mỏng, rồi rửa thật sạch để ra riêng. Sau đó, bạn cho măng vào luộc với nước sôi để loại hết độc tố và giúp măng không bị đắng. Các loại rau ăn kèm, bạn cắt rễ, nhặt sạch rồi cho vào rửa với nước muối pha loãng, để ráo, ăn kèm với bún măng vịt. Hành lá bạn đem cắt rễ, rửa sạch và thái khúc.\n\n
+            Bước 4: Tiến hành nấu\nCho tỏi bóc vỏ, băm nhỏ cùng dầu ăn vào nồi phi thơm, rồi cho nước vào, tiếp theo cho xương gà vào hầm từ 60 – 90 phút, rồi lọc lấy nước làm nước dùng. Khi lọc xong, bạn tiếp tục đun sôi nước, nêm nếm nước dùng với các loại gia vị cho vừa ăn. Sau đó, bạn cho vịt đã ướp vào nồi nấu chín. Cho vịt vào nấu khoảng 20 phút, bạn cho măng tươi vào nấu cùng.\n\n
+            Bước 5: Hoàn thành\nKhi vịt và măng chín, bạn nêm nếm lại một lần nữa cho vừa ăn thì tắt </item>
+        <item>Bước 1: Chuẩn bị bột gạo\nĐầu tiên, bạn cho bột gạo vào trong chiếc tô khô, sạch. Tiếp theo, trộn 1/3 thìa café muối cùng với bột gạo trong trạng thái khô cho thật kỹ.Trộn bột gạo với muối xong, từ từ rót nước lọc vào bột, vừa rót vừa khuấy cho bột hút nước đều. Khi thấy hỗn hợp bắt đầu sệt, bạn dùng đũa nhào kỹ để bột không bị vón cục.Dùng miếng màn ẩm hoặc màng bọc thực phẩm bọc kín miệng âu bột nhằm giữ ẩm cho bột cũng như côn trùng bay vào. Bột được để nghỉ trong 2 tiếng.\n\n
+            Bước 2: Nhồi bột\nSau 2 tiếng, bắc một chiếc chảo hoặc nồi lên bếp rồi đun khô.Cho vào chảo 1 thìa café dầu ăn rồi lắng đều để dầu lan khắp dáy chảo.Cho hết chỗ bột gạo đã ủ vào, hạ lửa về mức nhỏ nhất.Khoảng 3-5 phút, bột gạo sẽ trở nên mịn và không dính nữa, lúc này bạn tắt bếp cho chảo ra mâm phẳng.Khi bột còn nóng, nhanh tay đổ 35gr bột năng vào khối bột gạo, mang bao tay và nhồi thật kỹ khối bột. Sau khi nhồi được 10 phút, bạn để bột nghỉ 30 phút rồi đổ thêm lần 2. Nếu bột càng dẻo, càng được nhồi kỹ thì sợi bún càng mềm ngọt.\n\n
+            Bước 3: Ép bún\nBạn chuẩn bị một chiếc nồi sau đó cho vào chừng 2 lít nước, bạn có thể sử dụng lại chiếc chảo vừa quấy bột để luộc bún.Đun sôi nồi nước cùng với ½ thìa café dầu ăn. Khi nước bắt đầu sôi, bạn cho khối bột vào khuôn ép bún rồi nhanh chóng ép chặt tay để cho bún chảo vào trong nồi nước sôi.Ép bún xong, bạn luộc bún với lửa vừa cho tới khi sợi bún trong và trắng mịn hơn.Vẩy bún kỹ cho ráo nước để bún không bị nhão nước.</item>
+        <item>Bước 1: Sơ chế các nguyên liệu\nThịt heo sau khi mua về bạn cạo sạch lông, rửa qua nước sạch rồi cắt thịt thành các miếng mỏng vừa ăn.Hành tây bóc sạch vỏ rồi thái múi cau.Hành lá nhặt sạch rễ rồi rửa sạch, băm nhuyễn.Tỏi và hành tím bóc vỏ, rồi băm nhuyễn.Ớt rửa sạch, thái nhỏ.Rau giá và rau thơm rửa sạch với nước rồi ngâm vào nước muối, rửa sạch lại rồi để ráo nước.\n\n
+            Bước 2: Ướp thịt\nBạn cho phần thịt heo vào tô rồi ướp thịt với 1 muỗng đường, 1 muỗng hạt nêm, 1 chút nước mắm, 1 muỗng bột ngột, ít tỏi và hành lá băm cùng hạt tiêu xay. Sau đó, trộn đều và ướp khoảng 30 phút để thịt ngấm đều gia vị.\n\n
+            Bước 3: Chần bún\nBạn cho nước vào nồi rồi mở lửa lớn, khi nước sôi, bạn cho bún vào chần sơ để bún tơi ra. Lưu ý, chần thật nhanh rồi vớt bún ra rổ để bún không bị nát nhừ.\n\n
+            Bước 4: Xào thịt với bún\nBạn cho một ít dầu ăn vào chảo, rồi cho tỏi và hành tím băm vào phi thơm. Tiếp đến, cho thịt heo vào đảo đều, đến khi thịt chín bạn cho thịt ra đĩa riêng. Tiếp theo, bạn tiếp tục cho dầu tỏi vào chảo phi thơm, rồi cho giá đỗ, hành tây vão òa sơ, nên nếm với hạt nêm, bột ngọt, đường cho vừa ăn. Xào đến khi nguyên liệu chín thì bạn cho đĩa thịt xào vào đảo đều tay thì tắt bếp.\n\n
+            Bước 5: Hoàn thành\nBạn cho bún vào tô, rồi cho phần thịt heo, hành tây, giá đỗ vào, trộn đều lên và chan nước tương vào là thưởng thức được rồi đấy. Để món bún ngon hơn nữa, thì cách làm nước tương ăn bún cũng rất quan trọng. Do đó, tham khảo cách làm nước tương ăn bún sau đây để có được món bún xào thịt heo trọn vị.</item>
+        <item>Bước 1: Sơ chế nguyên liệu\nThịt và xương bò thì nên rửa qua với nước muối rồi đến nước dấm, sau đó xả thật sạch dưới nước để khử hoàn toàn mùi hôi của thịt bò, để ráo. Phần bắp bò, bạn cuộn lại rồi dùng sợi chỉ buộc lại.Giò heo: cạo lông, rửa sạch, cho vào nồi nước, ninh đến khi da heo trong là được, tắt bếp, vớt ra. Bạn có thể cho vào một tí muối để luộc cùng.Các loại rau: nhặt bỏ phần hư, rửa sạch, để ráo.Ớt tươi: cắt nhỏ, cho vào nước mắm.Hành lá: cắt lấy phần đầu hành trắng, sắt sợi nhỏ. Củ hành trắng sắt mỏng. Rau răm sắt vừa phải cỡ 2/3 ngón tay út. Sả và gừng thì đập dập, rửa sạch.Huyết: nấu nồi nước sôi và cho phần huyết vào luộc cùng với ít muối, đường. Khi nào huyết đông, bạn dùng đũa đâm mà không thấy nước màu hồng chảy ra là được. Vớt ra, ngâm trong nước lạnh, rồi cắt thành miếng vừa ăn.Pha phần mắm ruốc Huế với ½ chén nước, khuấy đều.\n\n
+            Bước 2: Ướp thịt\nBạn ướp tất cả các thịt theo công thức sau: 2 muỗng canh đường + 1 muỗng canh muối + ½ muỗng canh bột ngọt + 1 muỗng canh mắm ruốc đã pha + 2 muỗng canh hành tím băm + 2 muỗng canh tỏi băm + 2 muỗng canh sả băm.\n\n
+            Bước 3: Hầm thịt và xương\nBắc nồi lên bếp, cho 3 cây sả và ½ lượng gừng vào đáy nồi trước rồi mới cho xương và thịt giò heo vào, đổ vào lượng nước xâm xấp vừa ngập mặt thịt, đậy nấp, đun cho sôi. Khi thấy nồi sôi già thì hạ lửa nhỏ để liu riu thêm vài phút, tắt bếp. Vớt giò heo ra ngâm trong thau nước lạnh cho thịt săn chắc.Với phần bắp bò, nạm bò và gân bò thì bạn cũng hầm tương tự như xương và giò heo với lượng sả và gừng còn lại.Lưu ý: vì thịt bò và thịt heo có độ dai khác nhau nên vì vậy phải hầm 2 loại thịt này riêng.\n\n
+            Bước 4: Nấu nước dùng bún bò Huế miền nam\nCho 2 loại nước hầm ban nãy vào chung 1 nồi lớn và cho thêm lượng nước vào sao cho đủ khoảng 5 lít nước, đun cho sôi rồi nêm nếm gia vị theo tỉ lệ sau: 3 muỗng canh nước mắm + 2 muỗng canh muối + 2 muỗng canh đường + 2 muỗng café bột ngọt + chén mắm ruốt Huế đã pha loãng. Sau cùng bạn cho huyết heo, chả vào nồi nước. Đợi cho sôi là bạn đã nước dùng cho món bún bò của mình.Nếu bạn muốn nước dùng của mình có màu đẹp hơn thì có thể thực hiện thêm bước sau: Cho 1,5 muỗng canh sả băm + 1 muỗng canh tỏi băm vào chảo dầu nóng phi cho thơm rồi thêm vào 2 – 3 muỗng canh màu điều, đảo nhanh đều tay thì tắt bếp. Cho phần này vào nồi nước dùng đang nấu.\n\n
+            Bước 5: Trình bày món ăn\nTrụng bún qua nước sôi rồi cho vào bát, xếp thịt, gân, chả, giò, rắc ít rau ngò và chan nước dùng vào. Dọn kèm rau muống chẻ, bắp chuối bào, giá, rau thơm, chanh ớt, sa tế…</item>
+    </string-array>
+
+</resources>
